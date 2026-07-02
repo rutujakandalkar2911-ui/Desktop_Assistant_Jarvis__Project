@@ -1,31 +1,47 @@
 # Desktop Assistant Jarvis
 
-## Internship Details
-- Internship: CodTech IT Solutions
-- Project: Desktop Assistant Jarvis
+## Intern ID
+CITS4643
 
-## Description
-This is a simple Python Desktop Assistant. It provides a menu-driven interface to perform basic desktop tasks.
+## Full Name
+Rutuja Kandalkar
 
-## Features
-- Open Google
-- Open YouTube
-- Show Current Time
-- Open Notepad
-- Exit Program
+## No. of Weeks
+18 June 2026 to 16 July 2026
+
+## Project Name
+Desktop Assistant Jarvis
+
+## Project Scope
+This project is a Python-based Desktop Assistant that performs voice commands. It can greet the user, open websites, tell the current time, and respond using speech recognition and text-to-speech.
 
 ## Technologies Used
 - Python
-- VS Code
+- SpeechRecognition
+- pyttsx3
+- Webbrowser
+- Datetime
 
-## How to Run
-1. Open the project in VS Code.
-2. Open Terminal.
-3. Run:
-   python jarvis.py
+## Features
+- Voice Assistant
+- Text to Speech
+- Speech Recognition
+- Open Google and YouTube
+- Tell Current Time
+
+## Folder Structure
+```
+Desktop_Assistant_Jarvis_Project/
+│── Documentation/
+│   ├── Source_Code/
+│   └── Screenshots/
+│── Output_Images/
+│── README.md
+│── jarvis.py
+```
 
 ## Output
-The program displays a menu and performs the selected task.
+The assistant listens to the user's voice and performs tasks like opening websites and speaking responses.
 
-## Author
-Rutuja Kandalkar
+## Conclusion
+Desktop Assistant Jarvis demonstrates the use of Python libraries for building a simple voice-controlled assistant.
