@@ -1,13 +1,13 @@
 # Desktop Assistant Jarvis
 
 ## Intern ID
-CITS4643
+CITS5499
 
 ## Full Name
 Rutuja Kandalkar
 
 ## No. of Weeks
-18 June 2026 to 16 July 2026
+22 June 2026 to 03 August 2026
 
 ## Project Name
 Desktop Assistant Jarvis
